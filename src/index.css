@@ -1,12 +1,5 @@
 body {
 	margin: 0;
-	background: linear-gradient(100deg, #ff008c 0%, rgb(211, 9, 225) 100%);
-	/* width: 100vw;
-	height: 100vh; */
-	overflow: hidden; /* to hide the vertical and horizontal scrolls */
-	margin: 0;
-	padding: 0;
-	/* display: flex; */
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
 		'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
 		sans-serif;
